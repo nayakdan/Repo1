@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 7ED2-1E20
+
+ Directory of C:\Users\305025875\Desktop\project
+
+08/07/2018  07:47 PM    <DIR>          .
+08/07/2018  07:47 PM    <DIR>          ..
+08/07/2018  07:47 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  152,218,431,488 bytes free
